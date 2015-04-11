@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/voudeonibus/miniature-archer/issues"
   },
-  "homepage": "https://github.com/voudeonibus/miniature-archer"
+  "homepage": "https://github.com/voudeonibus/miniature-archer",
+  "dependencies": {
+    "express": "^4.12.3",
+    "hapi": "^8.4.0",
+    "koa": "^0.19.0"
+  }
 }
